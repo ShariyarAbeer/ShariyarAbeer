@@ -26,14 +26,15 @@
 <!--###  Contribution Stats -->
 <div align="center" desplay="flex">
 <a href="https://github.com/ShariyarAbeer">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariyarAbeer&theme=react&layout=compact&hide_border=true&langs_count=10&hide=html,css" />
+ <img algin="center" src="https://github-readme-stats.vercel.app/api?username=ShariyarAbeer&show_icons=true&&theme=react&count_private=true&include_all_commits=true&hide_border=true&hide=issues,prs,contribs"/>
 </a>
 <br>
 <br>
 <br>
 <!-- ###  Language Stats -->
 <a href="https://github.com/ShariyarAbeer">
- <img algin="center" src="https://github-readme-stats.vercel.app/api?username=ShariyarAbeer&show_icons=true&&theme=react&count_private=true&include_all_commits=true&hide_border=true&hide=issues,prs,contribs"/>
+ 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariyarAbeer&theme=react&layout=compact&hide_border=true&langs_count=10&hide=html,css" />
 </a>
 	</div>
 
