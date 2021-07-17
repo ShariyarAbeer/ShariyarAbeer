@@ -29,8 +29,7 @@
 <br>
 <!-- ###  Language Stats -->
 <a href="https://github.com/ShariyarAbeer">
- 
-	<img algin="center" src="https://github-readme-stats.vercel.app/api?username=ShariyarAbeer&show_icons=true&&theme=react&count_private=true&include_all_commits=true&hide_border=true&hide=issues,prs,contribs"/>
+ <img algin="center" src="https://github-readme-stats.vercel.app/api?username=ShariyarAbeer&show_icons=true&&theme=react&count_private=true&include_all_commits=true&hide_border=true&hide=issues,prs,contribs"/>
 </a>
 	</div>
 
