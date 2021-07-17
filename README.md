@@ -21,11 +21,15 @@
   <img align="left" alt="Shariyar Abeer | Twitter" width="22px" target="_blank" src="./assets/twitter.svg" />
 </a>
 <br>
+<br>
+<br>
 <!--###  Contribution Stats -->
-<div align="center">
+<div align="center" desplay="flex">
 <a href="https://github.com/ShariyarAbeer">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariyarAbeer&theme=react&layout=compact&hide_border=true&langs_count=10&hide=html,css" />
 </a>
+<br>
+<br>
 <br>
 <!-- ###  Language Stats -->
 <a href="https://github.com/ShariyarAbeer">
