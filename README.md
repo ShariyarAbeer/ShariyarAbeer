@@ -34,7 +34,7 @@
 <!-- ###  Language Stats -->
 <a href="https://github.com/ShariyarAbeer">
  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariyarAbeer&theme=react&layout=compact&hide_border=true&langs_count=10&hide=html,css" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariyarAbeer&theme=react&layout=compact&hide_border=true&langs_count=10&hide=html,css" />
 </a>
 	</div>
 
