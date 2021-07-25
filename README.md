@@ -37,11 +37,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariyarAbeer&theme=react&layout=compact&hide_border=true&langs_count=10&hide=html,css" />
 </a>
 	</div>
-
+<!--
 	
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShariyarAbeer.ShariyarAbeer)
 
-<!--
+
 **ShariyarAbeer/ShariyarAbeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - ### Hi there 👋
