@@ -2,7 +2,7 @@
 
 ## hey there!! :wave: I'm Shariyar Abeer 
 
-### --> Flutter Developer.
+### --> A Developer.
 
 	
 
