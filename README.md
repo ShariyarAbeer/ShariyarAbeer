@@ -3,8 +3,6 @@
 ## hey there!! :wave: I'm Shariyar Abeer 
 
 ### --> A Developer.
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/arifsh)
-
 	
 
 
